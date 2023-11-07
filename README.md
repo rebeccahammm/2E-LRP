@@ -1,4 +1,12 @@
 # 2E-LRP
+| Instances |  No. Hubs  | No. Suppliers | No. New Hubs | No. Old Hubs|
+|:-----|:--------:|------:|:--------:|------:|
+|HaK-n10  | **bold** | $1600 |**bold** | $1600 |
+| HaK-n11- v0-v3   |  `code`  |   $12 |**bold** | $1600 |
+|Hak-n72- v0 -v4  | _italic_ |    $1 |**bold** | $1600 |
+|Hak-n220- v0 -v4  | _italic_ |    $1 |**bold** | $1600 |
+|Hak-n261- v0 -v4  | _italic_ |    $1 |**bold** | $1600 |
+|Hak-n51- v0 -v4  | _italic_ |    $1 |**bold** | $1600 |
 
 ## simulating_data.py- 
 
