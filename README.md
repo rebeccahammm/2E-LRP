@@ -1,6 +1,7 @@
 # 2E-LRP
 
-##Instances
+##Instances-
+
 The sizes of the instances are the following:
 | Instances |  No. Hubs  | No. Suppliers | No. New Hubs | No. Old Hubs|
 |:-----|:--------:|------:|:--------:|------:|
