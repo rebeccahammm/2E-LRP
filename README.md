@@ -49,3 +49,8 @@ This file defines the Problem class. To read a instance file into a problem clas
    
     prob=Problem(file_name)
     prob.read_problem_instance()
+
+## exactmodel.py-
+This file contains code to build and solve the model exactly. To do this run the following command:
+    
+    run(files=[],MC=8,MHs=[2 for i in range(len(files)],MDs=[28800 for i in range(len(files)])
