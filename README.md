@@ -1,12 +1,15 @@
 # 2E-LRP
+
+##Instances
+The sizes of the instances are the following:
 | Instances |  No. Hubs  | No. Suppliers | No. New Hubs | No. Old Hubs|
 |:-----|:--------:|------:|:--------:|------:|
-|HaK-n10  | **bold** | $1600 |**bold** | $1600 |
-| HaK-n11- v0-v3   |  `code`  |   $12 |**bold** | $1600 |
-|Hak-n72- v0 -v4  | _italic_ |    $1 |**bold** | $1600 |
-|Hak-n220- v0 -v4  | _italic_ |    $1 |**bold** | $1600 |
-|Hak-n261- v0 -v4  | _italic_ |    $1 |**bold** | $1600 |
-|Hak-n51- v0 -v4  | _italic_ |    $1 |**bold** | $1600 |
+|HaK-n10  |5 | 3|1 |1 |
+| HaK-n11- v0-v3   |  5 |   3|1 | 2 |
+|Hak-n72- v0 -v4  | 6 |   34 |17| 15 |
+|Hak-n220- v0 -v4  | 56 |   54 |53 | 57 |
+|Hak-n261- v0 -v4  |7 |   200 |6 | 48 |
+|Hak-n51- v0 -v4  |6 |    20 |5 | 20 |
 
 ## simulating_data.py- 
 
