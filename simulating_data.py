@@ -357,5 +357,5 @@ def generating_multiple(num_of, seed,sup_range, dep_range, oh_range, nh_range, p
         with open("HaK-n220-v"+str(i+1)+".json", "w") as write:
             json.dump(instance_generation(random.random()*100,osm_file,
                       [sup_range[0],sup_range[1]], [dep_range[0],dep_range[1]], [oh_range[0], oh_range[1]], [nh_range[0], nh_range[1]], [pt_range[0], pt_range[1]], [vt_range[0], vt_range[1]],ins_types,dist_types,key), write)
-key="AIzaSyCU7dMIbmC1IrP9Jy0LY_bM0PCcCXhF_VM"
+key=""
 generating_multiple(4,4699,(54,55),(56,57),(53,54),(57,58),(1,2),(3,4),1,2,"/home/hammr/luna/OsmToRoadGraph/data/lancashire-latest.pycgr",key)
